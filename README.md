@@ -12,3 +12,9 @@ function. A simple data summary pops up after searching
 that includes molecular weight, molecular formula, IUPAC 
 name, and more. 
 
+-The third vibe coding project serves a similar purpose
+to the second one, focused on giving a user information 
+about a chemical by using a search function. This one also
+displays a bond-line drawing of the chemical after searching
+via SMILES.
+
