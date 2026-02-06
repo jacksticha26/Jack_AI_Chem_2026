@@ -18,3 +18,6 @@ about a chemical by using a search function. This one also
 displays a bond-line drawing of the chemical after searching
 via SMILES.
 
+-My fourth and fifth projects tackle statistics, focusing on 
+building basic prediction charts for missing data and using Python 
+code to create diagrams for data we desire. 
