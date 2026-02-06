@@ -21,3 +21,8 @@ via SMILES.
 -My fourth and fifth projects tackle statistics, focusing on 
 building basic prediction charts for missing data and using Python 
 code to create diagrams for data we desire. 
+
+-The sixth coding project demonstrates use of a decision tree to 
+classify a data set of 12 molecules as soluble and nonsoluble. This
+is a simple example of what can be done with a decision tree, with more 
+adjustability possible using different packages on python. 
