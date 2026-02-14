@@ -26,3 +26,9 @@ code to create diagrams for data we desire.
 classify a data set of 12 molecules as soluble and nonsoluble. This
 is a simple example of what can be done with a decision tree, with more 
 adjustability possible using different packages on python. 
+
+-The seventh coding project dives into KMeans algorithm sorting of
+different groups of elements. The two different coding files here include 
+a sorting of group one elements and the noble gasses. This demonstrates 
+our ability to organize these substances based on chemical information,
+not just a computer deciding on the similarities and differences. 
