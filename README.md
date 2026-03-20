@@ -32,3 +32,7 @@ different groups of elements. The two different coding files here include
 a sorting of group one elements and the noble gasses. This demonstrates 
 our ability to organize these substances based on chemical information,
 not just a computer deciding on the similarities and differences. 
+
+-The ninth coding project looks into convolution filters and image recognition applications
+of machine learning. Convolutional Neural Networks are fundamental to digital image recognition
+and making meaning of said image through the creation of custom filters. 
