@@ -36,3 +36,7 @@ not just a computer deciding on the similarities and differences.
 -The ninth coding project looks into convolution filters and image recognition applications
 of machine learning. Convolutional Neural Networks are fundamental to digital image recognition
 and making meaning of said image through the creation of custom filters. 
+
+-The tenth coding project expands on computer "vision" and image recognition. Coding to use the VGG16 model,
+we harness the power of an already refined model to find an image on the local computer disk and make educated
+guesses, not dissimilar to the CNN work from the previous assignment. 
