@@ -44,3 +44,8 @@ guesses, not dissimilar to the CNN work from the previous assignment.
 -The 12th coding project involves pattern recognititon and reinforcement learning to train the computer to
 'win' at a task based on previous training. As the model learns, less random moves are made and patterns are
 then engrained into the models strategy to win. 
+
+-The thirteenth project uses the standard california housing dataset to apply random forest learning to a real 
+and useable tool. The development of the random forest algorithm was fairly striaght forward, applying what we've 
+already learned. GUI development took the program a step further, allowing a user to input various parameters of 
+a home and get a predicted price from comparisons to the housing dataset. 
