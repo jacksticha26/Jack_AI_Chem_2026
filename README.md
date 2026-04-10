@@ -40,3 +40,7 @@ and making meaning of said image through the creation of custom filters.
 -The tenth coding project expands on computer "vision" and image recognition. Coding to use the VGG16 model,
 we harness the power of an already refined model to find an image on the local computer disk and make educated
 guesses, not dissimilar to the CNN work from the previous assignment. 
+
+-The 12th coding project involves pattern recognititon and reinforcement learning to train the computer to
+'win' at a task based on previous training. As the model learns, less random moves are made and patterns are
+then engrained into the models strategy to win. 
