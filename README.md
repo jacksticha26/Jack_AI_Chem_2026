@@ -49,3 +49,7 @@ then engrained into the models strategy to win.
 and useable tool. The development of the random forest algorithm was fairly striaght forward, applying what we've 
 already learned. GUI development took the program a step further, allowing a user to input various parameters of 
 a home and get a predicted price from comparisons to the housing dataset. 
+
+-My fourteenth min project uses KMeans clustering with the classic iris data set. A key feature I decided to
+include was the ability to change the cluster number from a user perspective. This displays how the cluster
+patterns change as you increase the group number. 
